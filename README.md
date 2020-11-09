@@ -1,2 +1,2 @@
 # DataScience_IBM_Coursera_Capstone
-highly recommend to use, a model to predict the severity of an accident based on weather and traffic, hours.
+highly recommend to use, we work with some location providers to analyse the similarity of a neighbor
