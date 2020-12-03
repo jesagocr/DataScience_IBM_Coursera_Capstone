@@ -1,0 +1,138 @@
+,Beaches,Info,lati,long,White_S,Swimming,Surfing,Snorkeling,Nocturnal
+0,Playa Barra del Colorado,True,8.51584085,-83.13636745062689,False,False,False,False,False
+1,Playa Bonita,False,10.0098609,-83.06345966834189,True,False,False,False,False
+2,Playa Cahuita (Blanca),False,8.51584085,-83.13636745062689,True,True,True,True,False
+3,Playa Chiquita,True,9.637402699999999,-82.70366899999999,True,True,False,True,False
+4,Punta Cocles,False,9.64527615,-82.71756313437658,True,False,False,False,False
+5,Playa Gandoca,False,9.59988715,-82.6070751340197,False,False,False,False,False
+6,Playa Manzanillo,False,9.63376115,-82.65735846713483,True,True,False,True,False
+7,Playa Moín,False,10.0098609,-83.06345966834189,False,False,False,False,False
+8,Playa Negra (Puerto Viejo),False,8.51584085,-83.13636745062689,True,False,True,False,False
+9,Playa Negra (Cahuita),True,9.7406696,-82.8504235,True,True,True,True,False
+10,Playa Pirikiki,False,8.51584085,-83.13636745062689,False,False,False,False,False
+11,Playa Portete,False,9.996011300000001,-83.02794740942792,False,False,False,False,False
+12,Playa Puerto Vargas,False,8.51584085,-83.13636745062689,False,False,False,False,False
+13,Playas Tortuguero,True,10.54226145,-83.50171995870858,False,False,False,False,False
+14,Playa Vizcaya,False,9.91662885,-82.98964462455095,False,False,False,False,False
+15,Playa Westfalia,False,9.93479535,-83.00343507690202,False,False,False,False,False
+16,Puerto Viejo de Talamanca,True,9.656494300000002,-82.75356540000001,False,True,True,True,False
+17,Punta Mona,True,9.6250739,-82.6204461,False,False,False,False,False
+18,Punta Uva,False,9.6409093,-82.6863319,True,False,False,False,False
+19,Playa Arbolito,False,8.51584085,-83.13636745062689,False,False,False,False,False
+20,Playa Avellanas,False,10.22929465,-85.83779722405043,True,False,True,False,False
+21,Playa Azul (Jurel),False,8.51584085,-83.13636745062689,False,False,False,False,False
+22,Playa Bahía Junquillal,False,10.96983015,-85.68803833656784,True,True,True,True,False
+23,Playa Barco Quebrado,False,9.8895216,-85.59280913526321,False,False,False,False,False
+24,Playa Barrigona,False,9.88235155,-85.57644056669986,True,False,False,False,False
+25,Playa Bejuco,False,9.83060555,-85.34267848183849,False,True,True,False,False
+26,Playa Blanca (Santa Elena),False,10.934320699999999,-85.86107511571404,False,False,False,False,False
+27,Playa Blanca y Virador,False,10.609946,-85.6897983,True,False,False,False,False
+28,Playa Bongo,False,9.741289199999999,-85.2387052,False,False,False,False,False
+29,Playa Brasilito,False,10.4131168,-85.79490140079079,False,True,False,False,False
+30,Playa Buena Vista,False,8.51584085,-83.13636745062689,True,False,False,False,False
+31,Playa Camaronal,False,9.8601038,-85.4339037202772,False,False,True,False,False
+32,Playa Carbón,False,8.51584085,-83.13636745062689,False,False,False,False,False
+33,Playa Carmen,False,8.51584085,-83.13636745062689,True,False,False,False,False
+34,Playa Carrillo,True,9.86819645,-85.49907825621081,True,True,False,True,False
+35,Playa Cóncava,False,8.51584085,-83.13636745062689,False,False,False,False,False
+36,Playa Conchal,True,10.401501300000001,-85.8055420204737,True,True,False,True,False
+37,Playa Coyote,False,9.7908435,-85.27797610236766,True,True,True,False,False
+38,Playa Coyotera,False,11.02985455,-85.71658927270164,True,True,True,False,False
+39,Playa Cuajiniquil,False,10.047023900000001,-85.74917579999999,False,False,False,False,False
+40,Playa Culebra,False,10.64082085,-85.6449128810504,False,False,False,False,False
+41,Playas del Coco,True,10.557994800000001,-85.69226196213228,False,True,False,True,True
+42,Playa Flamingo,False,10.43532835,-85.7924091514706,True,True,False,False,False
+43,Playa Garza,False,9.9066438,-85.63496644846748,True,True,True,False,False
+44,Playa Grande,True,10.340824900000001,-85.8450412,True,True,True,False,False
+45,Playa Gringo,False,8.51584085,-83.13636745062689,False,False,False,False,False
+46,Playa Guiones,False,9.92817025,-85.66256483429578,False,True,True,False,False
+47,Playa Hermosa,True,10.5745016,-85.67418599999999,False,True,True,True,False
+48,Playa Iguanita,False,10.6341025,-85.63288616150716,False,False,False,False,False
+49,Playa Islita y Corozalito,False,9.8508104,-85.40389671599013,False,True,False,False,False
+50,Playa Jobo,False,11.03510175,-85.73449576352901,True,False,False,False,False
+51,Playa Junquillal,False,10.96983015,-85.68803833656784,True,True,True,True,False
+52,Playa La Penca,False,10.462345,-85.7762625,False,False,False,False,False
+53,Playa Lagarto,False,10.121504199999999,-85.7950266643515,False,False,False,False,False
+54,Playa Langosta,False,10.28150965,-85.84919864473535,True,False,True,False,False
+55,Playa Mal País,False,8.51584085,-83.13636745062689,True,True,True,False,True
+56,Playa Marbella,False,10.0747673,-85.77142704646927,False,True,True,False,False
+57,Playa Manzanillo (Costa Rica),False,8.51584085,-83.13636745062689,True,True,False,True,False
+58,Playa Nabos,False,8.51584085,-83.13636745062689,False,False,False,False,False
+59,Playa Nacascolo,False,10.62910585,-85.67503605612532,True,False,False,False,False
+60,Playa Nancite,False,8.51584085,-83.13636745062689,False,False,False,False,False
+61,Playa Naranjo,False,10.7792989,-85.6664931,False,True,False,False,False
+62,Playa Negra,False,10.194563,-85.83014730413045,True,False,True,False,False
+63,Playa Nosara,True,9.97762095,-85.6882929001865,True,True,True,False,False
+64,Playa Nubes,False,8.51584085,-83.13636745062689,False,False,False,False,False
+65,Playa Ocotal,False,10.54616,-85.72245,False,True,False,True,False
+66,Playa Ostional,True,10.003083300000002,-85.71088784480713,False,False,False,False,False
+67,Playa Pan de Azúcar,False,10.4767532,-85.78065409999999,False,False,False,False,False
+68,Playa Panamá (Chrorotega),False,8.51584085,-83.13636745062689,False,True,False,True,False
+69,Playa Pelada,False,9.95467995,-85.67517548848251,True,False,False,False,False
+70,Playa Pietra,False,8.51584085,-83.13636745062689,False,False,False,False,False
+71,Playa Pitahaya,False,10.0674324,-85.76654073112843,False,False,False,False,False
+72,Playa Pleito y San Juanillo,False,10.0357479,-85.7430031253122,True,True,False,True,False
+73,Playa Pochote (Papagayo),True,8.51584085,-83.13636745062689,True,True,False,True,False
+74,Playa Potrero,False,10.4541413,-85.77117829999999,False,True,False,True,False
+75,Playa Real y Roble,False,8.51584085,-83.13636745062689,True,True,True,False,False
+76,Playa Rajada,False,11.031329300000001,-85.7429757,True,False,False,False,False
+77,Playa Sámara,False,9.8738539,-85.51189861814154,True,True,False,False,False
+78,Playa San Miguel,False,9.8115467,-85.31037709332722,False,False,True,False,False
+79,Playa Santa Teresa,False,8.51584085,-83.13636745062689,True,True,True,False,True
+80,Playa Surco de Piedra,False,10.1360688,-85.79973009999999,True,False,False,False,False
+81,Playa Prieta (Papagayo),False,8.51584085,-83.13636745062689,True,True,False,True,False
+82,Playa Pochote (Salinas),False,8.51584085,-83.13636745062689,False,False,True,False,False
+83,Playa Potrero Grande,False,10.8478882,-85.7891108,True,True,True,True,False
+84,Playa Puerto Soley,False,11.0456281,-85.66750810608643,True,False,True,False,False
+85,Playa Tamarindo,True,10.3008535,-85.84154816522363,True,True,True,False,True
+86,Playa Ventanas,False,10.348290800000001,-85.86245840000001,False,False,False,False,False
+87,Balnerario Puntarenas,True,8.51584085,-83.13636745062689,False,False,False,False,False
+88,Playa Agujas,False,9.721566099999999,-84.6536323,False,False,False,False,False
+89,Playa Bahía Drake,False,8.69184795,-83.66334195206292,False,False,False,True,False
+90,Playa Ballena,False,9.11725295,-83.70392194016301,False,True,True,True,False
+91,Playa Barú,False,9.26070925,-83.87792095791997,False,False,False,False,False
+92,Playa Blanca,False,10.0629966,-84.95660013646881,True,True,False,False,False
+93,Playa Boca Vieja,False,8.51584085,-83.13636745062689,False,False,False,False,False
+94,Playa Cabo Blanco,True,8.51584085,-83.13636745062689,True,False,False,False,False
+95,Playa Cabuya,False,9.5995055,-85.08516180000001,False,True,False,False,False
+96,Playa Cocalito,False,8.695496400000001,-83.67990278700452,False,False,False,False,False
+97,Playa Cacao,False,8.637084199999999,-83.16903590000001,False,False,False,False,False
+98,Playa Caldera,True,9.932353,-84.7214484577186,False,False,False,False,False
+99,Playa Carate,False,8.440706200000001,-83.4559490829963,False,False,False,False,False
+100,Playa Curú,False,9.7891539,-84.9243891835749,False,True,False,False,False
+101,Playa de Arco,False,8.51584085,-83.13636745062689,False,False,False,False,False
+102,Playa de Doña Ana,False,8.51584085,-83.13636745062689,False,False,True,False,False
+103,Playa Dominical,True,9.25093715,-83.86418362924842,False,False,True,False,True
+104,Playa Dominicalito,False,9.23739555,-83.84573132243315,False,False,True,False,True
+105,Playa Espadilla,True,9.39243715,-84.15177723780697,True,False,False,False,False
+106,Playa Esterillos,True,9.52437025,-84.45449198429253,False,False,True,False,False
+107,Playa Garza (Boca Brava),False,8.51584085,-83.13636745062689,True,True,True,False,False
+108,Playa Gigante,False,9.89954345,-84.92984954324861,False,False,False,False,False
+109,Playa Herradura,False,9.65117975,-84.66005027755614,False,True,False,True,False
+110,Playa Isla Damas,False,8.51584085,-83.13636745062689,False,False,False,False,False
+111,Playa Jacó,True,9.600515049999998,-84.6210615506194,False,True,True,False,True
+112,Playa Llorona,False,8.55098615,-83.67574233732144,False,False,False,False,False
+113,Playa Madrigal,False,8.44555585,-83.47673768801486,False,False,False,False,False
+114,Playa Mata de Limón,False,9.932353,-84.7214484577186,True,False,False,False,True
+115,Playa Mantas,False,9.7069288,-84.66102724814694,False,True,False,False,False
+116,Playas Manuel Antonio,True,9.9762003,-84.8275820644447,True,True,True,True,True
+117,Playa Matapalo,False,9.3264791,-83.9770332774872,False,True,True,False,False
+118,Playa Montezuma,False,9.65749655,-85.06428452816802,True,True,False,True,True
+119,Playa Órganos,False,9.814823599999999,-84.8983848,False,False,False,False,False
+120,Playa Palma,False,8.644378999999999,-83.43307844500589,False,True,False,False,False
+121,Playa Palo Seco,False,8.51584085,-83.13636745062689,False,False,False,False,False
+122,Playa Pavones,False,8.3951665,-83.13752916620182,False,False,True,False,False
+123,Playa Piñuela,False,9.099237400000002,-83.68639854258035,False,False,False,False,False
+124,Playa Platanares,False,8.5261289,-83.28649189971166,False,False,False,False,False
+125,Playa Pógeres,False,8.51584085,-83.13636745062689,False,False,False,False,False
+126,Playa Quizales,False,8.51584085,-83.13636745062689,False,False,False,False,False
+127,Playa San Josecito (Golfito),False,8.51584085,-83.13636745062689,False,True,False,False,False
+128,Playa Savegre,False,9.3636875,-84.07059179999999,False,False,False,False,False
+129,Playa Sombrero,False,8.41559,-83.28017707267725,False,False,False,False,False
+130,Playa Tamales,False,8.45534045,-83.28052152519095,False,False,False,False,False
+131,Playa Tambor,True,9.7457061,-84.9885464,False,True,False,False,False
+132,Playa Tárcoles,False,9.75938975,-84.62798911113678,False,False,False,False,False
+133,Playa Tivives,False,9.921222300000002,-84.7148891,False,False,False,False,False
+134,Playa Tortuga,True,9.77324635,-84.895385665156,False,True,False,True,False
+135,Playa Uvita,False,9.15530975,-83.75738881586818,False,True,False,True,False
+136,Playa Zancudo,False,8.51584085,-83.13636745062689,False,True,True,True,False
